@@ -1,0 +1,31 @@
+pwd - displays the current working directory 
+
+ls - displays the list of files and folders in the current directory 
+
+cd - navigates between directories in the path
+
+cd .. - navigates backwards, one level at a time, through the path of your directories 
+
+mkdir - creates a new directory
+
+touch - creates a file inside a directory
+
+____________________________________________________
+
+What Should a High-Quality README Contain?
+
+A high-quality README file explains what your application does and why you used the technologies that you did. At a bare minimum, a README needs a title and a short description explaining the what, why, and how of the project.
+
+Use the following questions as a guide:
+
+What was your motivation?
+Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+What problem does it solve?
+What did you learn?
+What makes your project stand out?
+
+Your README might also describe some of the challenges you faced, as well as the features you plan to implement in the future. And if your project is deployed, make sure to include a link to the deployed application so people can see it in action!
+
+
+
+
